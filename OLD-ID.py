@@ -42,7 +42,7 @@ def runtxt(z):
 def helpnote():
 	print("%s [*] FOLLOW ME ON Fb TU KNOW ABOUT UPDATES  :)"%(G))
 	subprocess.check_output(["am", "start", "plr = requests.get('https://github.com/mohammadrahad/rahad/blob/main/rahad.txt').text"])
-	exit(" [*] FACEBOOK :  Mohammad Rahad ")
+	exit(" [*] FACEBOOK :  𝐌𝐃 𝐒𝐇𝐀𝐊𝐈𝐋 𝐈𝐒𝐋𝐀𝐌 ")
 
 
 def notice():
@@ -51,8 +51,8 @@ def notice():
 
 	runtxt("\n\033[0;91mYOU ARE NOT PREMIUM USER ")
 	runtxt("\033[0;93m  SENT THIS KEY TO ADMIN >> %s%s"%(G,basesplit))
-	runtxt("\033[0;92m ADMIN MESSENGER🔰RAHAD")
-	subprocess.check_output(["am", "start", "https://m.me/100045479477226"])
+	runtxt("\033[0;92m 𝐀𝐃𝐌𝐈𝐍 𝐌𝐃 𝐒𝐇𝐀𝐊𝐈𝐋 𝐈𝐒𝐋𝐀𝐌")
+	subprocess.check_output(["am", "start", "https://www.facebook.com/mdshakilislam.4321?mibextid=ZbWKwL"])
 
 def irfan():
 	
