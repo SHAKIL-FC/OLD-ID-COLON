@@ -1,4 +1,4 @@
-# OLD-ID-COLONOLD-ID-COLON
+# OLD-ID-COLON
 <•> rm -rf OLD-ID-COLON
 
 <•> git clone https://github.com/SHAKIL-FC/OLD-ID-COLON.git
