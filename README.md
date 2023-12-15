@@ -1,10 +1,12 @@
-# OLD-ID-COLON
-<•> rm -rf OLD-ID-COLON
+### FREE CLONING TOOL
+``` python
 
-<•> git clone https://github.com/SHAKIL-FC/OLD-ID-COLON.git
+rm -rf OLD-ID-COLON
 
-<•> git pull
+git clone https://github.com/SHAKIL-FC/OLD-ID-COLON.git
 
-<•> cd OLD-ID-COLON
+git pull
 
-<•> python OLD-ID.py
+cd OLD-ID-COLON
+
+python3 SCANNING.py
